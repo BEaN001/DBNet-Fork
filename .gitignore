@@ -122,3 +122,4 @@ struture/representers/setup.py
 path-to-model-directory
 # test
 datasets/total_text/test_images/
+datasets/TD_TR
